@@ -55,7 +55,7 @@ const MainPage = () => {
             </Box>
             {/* Image */}
             <Box display="flex" flexDirection="column" justifyContent="center" alignContent="start"padding="25px" width={{xs:'50vw',md:'25vw'}}>
-            <img src={plant}  style={{borderRadius:'25px',border:'1px solid white',boxShadow:'3',boxShadow: '10px 10px 8px rgba(128, 203, 196, 2)'}}/>
+            <img src={plant}  style={{borderRadius:'25px',border:'1px solid white',boxShadow: '10px 10px 8px rgba(128, 203, 196, 2)'}}/>
             </Box>
             </Box>
 
